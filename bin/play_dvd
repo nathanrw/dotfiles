@@ -1,0 +1,8 @@
+#!/bin/bash
+
+title=$0
+if [ ! "$title" ]; then
+  mplayer dvd:////dev/sr0 -identify -frame 0
+else
+  mplayer dvd://$title//dev/sr0 -framedrop -nosub 
+fi
