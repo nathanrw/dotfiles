@@ -1,3 +1,3 @@
 syntax enable
 
-colorscheme evening
+colorscheme desert
