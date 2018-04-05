@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/home/nathan/projects/space_game/notes'
+let g:netrw_dirhist_2='/home/nathan/projects/nuklear-cffi'
+let g:netrw_dirhist_3='/home/nathan/Downloads/pcpp-1.0/pcpp.egg-info'
+let g:netrw_dirhist_4='/home/nathan/projects/pcpp/pcpp/attic'
+let g:netrw_dirhist_5='/home/nathan/projects/nuklear-cffi/pynk'
+let g:netrw_dirhist_6='/home/nathan/projects/nuklear-cffi/demo'
+let g:netrw_dirhist_7='/home/nathan/.vim'
