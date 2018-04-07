@@ -40,3 +40,4 @@ Desktop/*
 .xsession-errors
 .xsession-errors.old
 .zcompdump
+.var/*
